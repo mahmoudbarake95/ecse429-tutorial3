@@ -5,8 +5,8 @@ import org.junit.Test;
 public class AppTest
 {
     @Test
-    public void emptyTest() {
-
+    public void mainTest() {
+        App.main(null);
     }
 }
 
