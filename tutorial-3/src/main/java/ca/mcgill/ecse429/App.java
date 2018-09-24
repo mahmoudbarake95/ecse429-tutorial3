@@ -6,7 +6,7 @@ public class App
 
     public static void main( String[] args )
     {
-    	String s = "hello";
+    	String s = "Hello";
     	System.out.println(s.length());
     }
 
